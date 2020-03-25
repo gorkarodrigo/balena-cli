@@ -1,4 +1,25 @@
 - commits:
+    - subject: Convert command `note` to oclif
+      hash: 0cd508b459727e9daa984970f0778000df436f09
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Scott Lowe <scott@balena.io>
+        signed-off-by: Scott Lowe <scott@balena.io>
+      author: Scott Lowe
+    - subject: Convert command `settings` to oclif
+      hash: c83e72126e1fddb4547f08b6897f03eeb3c50c6b
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Scott Lowe <scott@balena.io>
+        signed-off-by: Scott Lowe <scott@balena.io>
+      author: Scott Lowe
+  version: 11.30.5
+  date: 2020-03-25T17:34:23.574Z
+- commits:
     - subject: Deduplicate `balenaUrl` fetching in events
       hash: 47e85da78958826e76e091ea45ee81428555ddd7
       body: ''

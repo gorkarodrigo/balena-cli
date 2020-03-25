@@ -134,6 +134,7 @@ export const convertedCommands = [
 	'os:configure',
 	'version',
 	'settings',
+	'note',
 ];
 
 /**

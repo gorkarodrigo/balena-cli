@@ -68,7 +68,7 @@ Additional commands:
     local configure <target>              (Re)configure a balenaOS drive or image
     local flash <image>                   Flash an image to a drive
     logout                                logout from balena
-    note <|note>                          set a device note
+    note <note>                           set a device note
     os build-config <image> <device-type> build the OS config and save it to the JSON file
     os configure <image>                  configure a previously downloaded balenaOS image
     os download <type>                    download an unconfigured os image

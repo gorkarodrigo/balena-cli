@@ -1,4 +1,14 @@
 - commits:
+    - subject: Convert lib/actions/local/common.coffee to javascript
+      hash: 4c4fdde430a1e4ec70f4edb43c57e3ccc371e2f1
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Pagan Gazzard
+  version: 11.30.6
+  date: 2020-03-25T15:02:42.499Z
+- commits:
     - subject: Use balena-lint for javascript linting and add javascript type-checking
       hash: b3b22d63997ca76011297c714104c387213244a1
       body: ''
